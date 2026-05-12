@@ -1,13 +1,14 @@
 # EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
 
-**NAME:**
+**DATE:12.05.2026**
 
-**ROLL NO:**
+**NAME:THEJA SREE G**
 
-**DEPARTMENT:**
+**ROLL NO:212224110056**
+
+**DEPARTMENT:CSE(IOT)**
 
 ## Aim
 
@@ -211,6 +212,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## OUTPUT
 <img width="428" height="586" alt="image" src="https://github.com/user-attachments/assets/00d73958-c4a8-4402-8bf5-53482134cd09" />
 <img width="372" height="556" alt="image" src="https://github.com/user-attachments/assets/2ae23af7-6469-482b-be9d-66235a028f81" />
+
 ## Result
 
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
